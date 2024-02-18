@@ -1,0 +1,4 @@
+﻿  Lists.cpp
+C:\Users\Quixar\source\repos\Lists\Lists.cpp(374,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quixar\source\repos\Lists\Lists.cpp(377,7): warning C4101: 'ar': unreferenced local variable
+  Lists.vcxproj -> C:\Users\Quixar\source\repos\Lists\x64\Debug\Lists.exe
